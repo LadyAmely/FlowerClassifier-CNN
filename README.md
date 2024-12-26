@@ -23,6 +23,6 @@ The model achieved the following results:
 - **F1-Score**: **94.95%**
 ---
 
-![flowers](https://github.com/LadyAmely/VGGNet-tensorflow/blob/master/plots/predictions_visualizations.png)
+![flowers](https://github.com/LadyAmely/FlowerClassifier-CNN/blob/master/plots/flowers_predictions.png)
 
 
