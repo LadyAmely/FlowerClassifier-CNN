@@ -13,6 +13,10 @@ The Flowers Dataset includes images from the following five flower species:
 4. Sunflowers
 5. Tulips
 
+This project uses a dataset downloaded from [Kaggle](https://www.kaggle.com/) under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
+
+The original dataset can be found here: [Dataset Link](https://www.kaggle.com/datasets/rahmasleam/flowers-dataset).
+
 ---
 
 ## Results
@@ -24,5 +28,6 @@ The model achieved the following results:
 ---
 
 ![flowers](https://github.com/LadyAmely/FlowerClassifier-CNN/blob/master/plots/flowers_predictions.png)
+
 
 
