@@ -16,7 +16,11 @@ The Flowers Dataset includes images from the following five flower species:
 ---
 
 ## Results
+The model achieved the following results:
 
-Precision: 0.9504
-Recall: 0.9488 
-F1-Score: 0.9495
+- **Precision**: **95.04%**
+- **Recall**: **94.88%**
+- **F1-Score**: **94.95%**
+---
+
+
