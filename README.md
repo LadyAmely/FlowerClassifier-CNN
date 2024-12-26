@@ -14,3 +14,9 @@ The Flowers Dataset includes images from the following five flower species:
 5. Tulips
 
 ---
+
+## Results
+
+Precision: 0.9504
+Recall: 0.9488 
+F1-Score: 0.9495
