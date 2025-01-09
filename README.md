@@ -2,6 +2,7 @@
 
 Project Overview
 This project involves training a Convolutional Neural Network (CNN) on the Flowers Dataset, which contains images of flowers from five distinct species. 
+
 ![](https://komarev.com/ghpvc/?username=LadyAmely&color=green)
 ---
 ## Dataset
